@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PultTaxi</string>
+    <string name="contract_warning_text">Ознакомьтесь с договором-оферты. Регистрируясь или авторизуясь, вы принимаете его условия</string>
+    <string name="continue_text">Продолжить</string>
+    <string name="car_content_text">Обычная белая машинка</string>
+    <string name="SMS_code_text">Введите код из СМС</string>
+    <string name="sms_send_warning_text">Повторно отправить СМС с кодом можно будет через 15 секунд</string>
+    <string name="done_text">Готово</string>
+    <string name="hint_phone_number_text">Введите номер вашего телефона</string>
+</resources>
